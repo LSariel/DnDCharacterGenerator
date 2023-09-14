@@ -1,2 +1,10 @@
-package Model;public class Character {
+package Model;
+
+public class Character {
+    Race race;
+
+    CharacterClass characterClass;
+
+
+
 }

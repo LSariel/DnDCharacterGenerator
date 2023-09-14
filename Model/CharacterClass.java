@@ -1,2 +1,5 @@
-package Model;public interface CharacterClass {
+package Model;
+
+public interface CharacterClass {
+    String className = "";
 }
